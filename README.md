@@ -11,7 +11,7 @@ Then, let the redis server as a daemon in the background:
 redis-server --daemonize yes
 ```
 
-Let's the 3 separate apps soa-auth, soa-quest-answ, soa-stats on 3 different terminals:
+Let's initiate the 3 separate apps soa-auth, soa-quest-answ, soa-stats on 3 different terminals:
 ```sh
 cd backend/soa-auth &&
 npm install &&
